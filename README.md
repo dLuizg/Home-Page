@@ -15,7 +15,8 @@ O objetivo é praticar desenvolvimento front-end e servir como base para futuras
 
 - **HTML5** → estrutura da página  
 - **CSS3** → estilização e responsividade  
-- **JavaScript** → interatividade  
+- **JavaScript** → interatividade
+- **Figma** → elaboração e vizualização
 
 ---
 
@@ -23,9 +24,13 @@ O objetivo é praticar desenvolvimento front-end e servir como base para futuras
 
 
 /assets # imagens e recursos visuais
+
 index.html # página principal
+
 style.css # estilos
+
 script.js # lógica em JS
+
 README.md # documentação
 
 ## 🚀 Como usar
